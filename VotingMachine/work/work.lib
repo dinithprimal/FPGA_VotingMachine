@@ -1,0 +1,61 @@
+timestamp=1678267850434
+
+[~A]
+LastVerilogToplevel=test
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*1554*3601
+
+[~MFT]
+0=8|0work.mgf|3601|0
+1=6|1work.mgf|9384|0
+3=12|3work.mgf|7123|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c92169f84312e80c5f2d5a65baa34ed4717dc
+
+[buttonControl]
+A/buttonControl=22|../design.sv|4|1*374
+BinL64/buttonControl=3*174
+R=../design.sv|4
+SLP=3*669
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|167429e56c3c87a9da5aaf4c890c9535181e5ca107ac5fcff354b1faff485a5f52b00b124f8960d92c29b3f78f1ffa9e
+
+[modeControl]
+A/modeControl=22|../design.sv|64|1*3215
+BinL64/modeControl=3*2346
+R=../design.sv|64
+SLP=3*3334
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|828ea413e5a461803c4e0a11e742b9eaef3b86876ea2130748c4ece2386bdd2a5bd6bdee42e592c9607b6ec2d5a76835
+
+[test]
+A/test=22|../testbench.sv|3|1*9384
+BinL64/test=3*4669
+R=../testbench.sv|3
+SLP=3*7123
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|e1f76c805e2c0a9a3d36a8be8882f20657d21da3906f0cb4c408d6ac007ca4eb
+
+[voteLogger]
+A/voteLogger=22|../design.sv|27|1*1527
+BinL64/voteLogger=3*1010
+R=../design.sv|27
+SLP=3*1824
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c634f00a595a40f0c1007e08a5174be4dfa755b9938056fb1a91172c6f758eff99eaadf21e52bf93a9ac75b203ed4eba
+
+[votingMachine]
+A/votingMachine=22|../design.sv|120|1*5436
+BinL64/votingMachine=3*4093
+R=../design.sv|120
+SLP=3*4439
+Version=2022.04.117 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|905e3ac907ee9e81271aae23fc5f3a87adf1502f39a57769e1699beb6bc31a1a52b00b124f8960d92c29b3f78f1ffa9e
+
+[~U]
+$root=12|0*0|
+buttonControl=12|0*214|
+modeControl=12|0*733|
+test=12|0*1350||0x10
+voteLogger=12|0*447|
+votingMachine=12|0*1053|

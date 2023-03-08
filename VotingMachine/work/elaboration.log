@@ -1,0 +1,27 @@
+Riviera-PRO 2022.04.117.8517(Linux64) 2023-03-08 04:30:51
+
+Elaboration top modules:
+Verilog Module                test
+
+
+---------------------------------------------------------------------------------------
+Verilog Module          | Library | Info | Compiler Version      | Compilation Options
+---------------------------------------------------------------------------------------
+test                    | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+votingMachine           | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+buttonControl           | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+voteLogger              | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+modeControl             | work    |      | 2022.04.117 (Linux64) | -timescale 1ns/1ns
+---------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------
+work                    | None
+---------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access+r
+
+
+The performance of simulation is reduced. Version EDU Edition
